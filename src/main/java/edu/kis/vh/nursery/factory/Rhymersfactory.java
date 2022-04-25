@@ -13,3 +13,4 @@ import edu.kis.vh.nursery.DefaultCountingOutRhymer;
 		public DefaultCountingOutRhymer getHanoiRhymer();
 		
 	}
+//10. Wszystkie atrybuty są prywatne
