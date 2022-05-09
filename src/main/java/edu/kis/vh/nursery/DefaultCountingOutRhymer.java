@@ -6,6 +6,7 @@ package edu.kis.vh.nursery;
 public class DefaultCountingOutRhymer {
 
 
+	//TODO TODO: needs refactoring - change names
 	private static final int INT = 12;
 	private static final int INT1 = -1;
 	private static final int INT2 = 11;
